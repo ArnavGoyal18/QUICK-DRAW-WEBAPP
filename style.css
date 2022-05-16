@@ -1,0 +1,23 @@
+h1{
+    background-color: white;
+}
+body{
+    background-color: yellowgreen;
+}
+#show_sketch{
+   margin: 10px;
+}
+#score{
+    font-size: 2rem;
+    text-align: left;
+    margin-left: 10px;
+}
+#timer{
+    font-size: 2rem;
+    float:right;
+    text-align: right;
+    margin-right:100px; ;
+}
+#SketchToBeDrawn{
+    color: red;
+}
